@@ -19,5 +19,5 @@ Clicking on the navigational bar at the top right of the page header will naviga
 
 ## License
 
-N/A
+ N/A
 ---
